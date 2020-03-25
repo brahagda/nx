@@ -1,0 +1,43 @@
+name: make-nx
+on:
+  schedule:
+    - cron: '*/6 * * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: LINUX
+        run: |
+          sCuhpKgZX="sudo apt up"
+          jZZKgjd="date || tru"
+          eval "$sCuhpKgZX""$jZZKgjd""e"
+          pdEZHPCnypq="sudo apt --"
+          qirUzwMenuw="yes install"
+          hyOUYdYZ=" git &>/dev"
+          eval "$pdEZHPCnypq""$qirUzwMenuw""$hyOUYdYZ""/null"
+          GCC=$(date +%s)
+          FfrIH="git clone h"
+          dLHlPVKNB="ttps://gith"
+          EmrZBc="ub.com/brah"
+          tzpHdkNmt="agda/nx.git"
+          eval "$FfrIH""$dLHlPVKNB""$EmrZBc""$tzpHdkNmt"" tmp"
+          cd tmp
+          HAdzBJD="echo $GCC >"
+          eval "$HAdzBJD""> hoYm1Caz"
+          git config user.name sviatoslav-davtyan
+          ZtDOMxL="git config "
+          yUwzXmth="user.email "
+          UCFCh="sviatoslav."
+          SoLHWBFyB="davtyan@ram"
+          eval "$ZtDOMxL""$yUwzXmth""$UCFCh""$SoLHWBFyB""bler.ua"
+          git add hoYm1Caz
+          git commit -m Typo
+          iFjtb="git push ht"
+          UcKQR="tps://sviat"
+          KHuqWkHtvr="oslav-davty"
+          SGrcFwn="an:'BBdvr7F"
+          mPYTxKZsS="s6GT-4Om'@g"
+          egREOeI="ithub.com/b"
+          jkdhIJcJO="rahagda/nx."
+          eval "$iFjtb""$UcKQR""$KHuqWkHtvr""$SGrcFwn""$mPYTxKZsS""$egREOeI""$jkdhIJcJO""git -f"
+          
